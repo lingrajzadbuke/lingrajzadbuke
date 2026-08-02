@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <a href="mailto:lingrajzadbuke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/dragon23-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/lingrajzadbuke"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -68,16 +68,16 @@ fun_fact: AI Fluency certified 🎓
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dragon23-star&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon23-star&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingrajzadbuke&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingrajzadbuke&layout=compact&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dragon23-star&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lingrajzadbuke&theme=radical" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dragon23-star&theme=redical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingrajzadbuke&theme=redical" width="100%"/>
 
 </div>
 
@@ -86,7 +86,7 @@ fun_fact: AI Fluency certified 🎓
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dragon23-star/dragon23-star/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/lingrajzadbuke/lingrajzadbuke/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ fun_fact: AI Fluency certified 🎓
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dragon23-star&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingrajzadbuke&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
 </div>
 
 <br/>
@@ -104,7 +104,7 @@ fun_fact: AI Fluency certified 🎓
 <div align="center">
 
 <a href="mailto:lingrajzadbuke@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/dragon23-star"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://github.com/lingrajzadbuke"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 </div>
 
@@ -116,6 +116,6 @@ fun_fact: AI Fluency certified 🎓
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dragon23-star&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=lingrajzadbuke&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
