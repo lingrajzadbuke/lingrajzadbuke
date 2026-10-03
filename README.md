@@ -85,7 +85,9 @@ A web app for splitting bills.
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingrajzadbuke&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution graph" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/7dd3fc/lingrajzadbuke" width="100%" alt="Contribution graph" />
+</div>
 
 ---
 
